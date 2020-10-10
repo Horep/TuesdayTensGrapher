@@ -1,3 +1,6 @@
+# Most code written by Bohverkill
+# Graphing and general usability added by hOREP.
+
 import json
 import re
 from collections import Counter
